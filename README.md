@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kirandeepgantasala/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Kirandeepgantasala/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kirandeepgantasala/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Kirandeepgantasala/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
